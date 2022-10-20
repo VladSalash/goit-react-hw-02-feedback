@@ -14,9 +14,15 @@ state = {
       <div>
         <h2>Please leave feedback</h2>
         <div>
-          <button type="button" onClick={this.}></button>
-          <button type="button" onClick={this.}></button>
-          <button type="button" onClick={this.}></button>
+          <button type="button" onClick={() => {
+
+            this.}}></button>
+          <button type="button" onClick={() => {
+
+            this.}}></button>
+          <button type="button" onClick={() => {
+
+            this.}}></button>
         </div>
       </div>
     )
